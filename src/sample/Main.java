@@ -14,7 +14,6 @@ public class Main extends Application {
         primaryStage.setTitle("Telephone Book");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
-        System.out.println("Hello World");
     }
 
 
